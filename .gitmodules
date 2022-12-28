@@ -1,0 +1,18 @@
+[submodule "graph_service"]
+	path = graph_service
+	url = https://github.com/sanjeethboddi/GraphService.git
+[submodule "feed_service"]
+	path = feed_service
+	url = https://github.com/sanjeethboddi/FeedService
+[submodule "auth_service"]
+	path = auth_service
+	url = https://github.com/sanjeethboddi/AuthService.git
+[submodule "profile_service"]
+	path = profile_service
+	url = https://github.com/sanjeethboddi/ProfileService.git
+[submodule "post_service"]
+	path = post_service
+	url = https://github.com/sanjeethboddi/PostService.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sanjeethboddi/PET_BACKEND.git
