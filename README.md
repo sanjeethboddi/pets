@@ -3,6 +3,7 @@ Pet world.
 # setup
 * Install nginx server
 * Replace default nginx config file with the nginx file provided. 
+* edit the rootFolder variable in backend/.env file. 
 
 # run
 ```
